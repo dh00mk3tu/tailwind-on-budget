@@ -1,5 +1,6 @@
 # tailwind-on-budget
 
-Flexbox focused minified CSS bundle created while working on an inhouse Project
+Flexbox based minified CSS bundle created to design responsive web pages. 
+Created while working on an inhouse Project
 
-Ease to use, straight forward & **less then 5kb**!
+Easy to use, straight forward & **less then 5kb**!
