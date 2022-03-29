@@ -1,26 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
-
 * {
     margin: 0;
     padding: 0;
     /* background-color: #f2f5f7; */
     /* overflow-x: hidden !important; */
 }
-
-/* Font Import */
-@font-face {
-    src: url(/Assets/fonts/DINNextLTPro-Bold.ttf);
-    font-family: heading;
-}
-
-@font-face {
-    src: url(/Assets/fonts/AktivGroteskCorp-Regular.ttf);
-    font-family: text-content;
-}
-
-/* Third Party CSS */
-
-  
 
 /* Container */
 .container {
